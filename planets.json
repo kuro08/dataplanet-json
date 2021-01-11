@@ -1,0 +1,241 @@
+[
+{
+        "id" : 0,
+        "name": "Matahari",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/220px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
+        "about" : 
+            {
+                "type": "Bintang Tipe G",
+                "age" : 4503000000, 
+                "size": 696340,
+                "temperature": 6000,
+                "distance_sun" : 0, 
+                "distance_earth" : 150000000,
+                "satelite" : 0
+            },
+        "description" : 
+            {
+                "status" : "-" ,
+                "about" : "Matahari atau Surya adalah bintang di pusat tata surya. Bentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet. Diameternya sekitar 1.392.684 km, kira-kira 109 kali diameter Bumi, dan massanya (sekitar 2×10^30 kilogram, 330.000 kali massa Bumi) mewakili kurang lebih 99,86% massa total tata surya. Secara kimiawi, sekitar tiga perempat massa matahari terdiri dari hidrogen, sedangkan sisanya didominasi helium." 
+            }
+        
+    },
+    {
+        "id" : 1,
+        "name": "Merkurius",
+        "img": "https://i1.wp.com/langitselatan.com/wp-content/uploads/2020/05/Merkurius-feat.jpg?fit=325%2C375&ssl=1",
+        "about" : 
+            {
+                "type": "Planet Bebatuan",
+                "age" : 4503000000, 
+                "size": 2439.7,
+                "temperature": 167,
+                "distance_sun" : 5700000, 
+                "distance_earth" : 9200000,
+                "satelite" : 1
+            },
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Merkurius adalah Planet terkecil ditata surya sekaligus terdekat dari matahari" 
+            }
+        
+    },
+        {
+        "id" : 2,
+        "name": "Venus",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg",
+        "about" : 
+            {
+                "type": "Planet Bebatuan",
+                "age" : 4503000000,
+                "size": 60518,  
+                "temperature": 462,
+                "distance_sun" : 1080000000,
+                "distance_earth" : 4100000000,
+                "satelite" : 0
+            },
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Venus adalah planet terdekat kedua dari Matahari setelah Merkurius. Planet ini mengorbit Matahari selama 224,7 hari Bumi. Venus tidak memiliki satelit alami dan dinamai dari dewi cinta dan kecantikan dalam mitologi Romawi" 
+            }
+        
+    },
+    {
+        "id" : 3,
+        "name": "Bumi",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Earth_Eastern_Hemisphere.jpg",
+        "about" : 
+            {
+                "type": "Planet Bebatuan",
+                "age" : 4543000000,
+                "size": 6371,
+                "temperature": 15,
+                "distance_sun" : 152095295 ,
+                "distance_earth" : 0,
+                "satelite" : 1
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Layak Huni" ,
+                "about" : "Bumi adalah planet ketiga dari Matahari yang merupakan planet terpadat dan terbesar kelima dari delapan planet dalam Tata Surya. ... Bumi juga merupakan planet terbesar dari empat planet kebumian Tata Surya. Bumi terkadang disebut dengan dunia atau Planet Biru." 
+            }
+        
+    },
+    {
+        "id" : 4,
+        "name": "Mars",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mars_Hubble.jpg",
+        "about" : 
+            {
+                "type": "Planet Bebatuan",
+                "age" : 4603000000,
+                "size": 33895,
+                "temperature": -46,
+                "distance_sun" : 227900000 ,
+                "distance_earth" : 62069570,
+                "satelite" : 2
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : " Planet ini sering dijuluki sebagai planet merah karena tampak dari jauh berwarna kemerah-kemerahan. Ini disebabkan oleh keberadaan besi(III) oksida di permukaan planet Mars" 
+            }
+        
+    },
+    {
+        "id" : 5,
+        "name": "Jupiter",
+        "img": "https://majalahayah.com/wp-content/uploads/2019/04/Yupiter-1.jpg",
+        "about" : 
+            {
+                "type": "Planet GAS",
+                "age" : 4503000000,
+                "size": 69911,
+                "temperature": 145,
+                "distance_sun" : 778000000 ,
+                "distance_earth" : 6193000000,
+                "satelite" : 79
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Jupiter merupakan raksasa gas dengan massa seperseribu massa Matahari dan dua setengah kali jumlah massa semua planet lain di Tata Surya." 
+            }
+        
+    },
+    {
+        "id" : 6,
+        "name": "Saturnus",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
+        "about" : 
+            {
+                "type": "Planet GAS",
+                "age" : 503000000,
+                "size": 58232,
+                "temperature": -139,
+                "distance_sun" : 14270000000 ,
+                "distance_earth" : 1300000000,
+                "satelite" : 82
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Saturnus juga merupakan sebuah raksasa gas yang memiliki radius rata-rata sekitar 9 kali radius rata-rata Bumi." 
+            }
+        
+    },
+    {
+        "id" : 7,
+        "name": "Uranus",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Uranus2.jpg/360px-Uranus2.jpg",
+        "about" : 
+            {
+                "type": "Planet GAS",
+                "age" : 4503000000,
+                "size": 25362,
+                "temperature": -371,
+                "distance_sun" : 28800000000 ,
+                "distance_earth" : 2865000000,
+                "satelite" : 27
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Uranus merupakan planet yang memiliki jari-jari terbesar ketiga sekaligus massa terbesar keempat di Tata Surya" 
+            }
+        
+    },
+    {
+        "id" : 8,
+        "name": "Neptunus",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg/360px-Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg",
+        "about" : 
+            {
+                "type": "Planet GAS",
+                "age" : 4503000000,
+                "size": 24622,
+                "temperature": -218,
+                "distance_sun" : 4500000000 ,
+                "distance_earth" : 4300000000,
+                "satelite" : 14
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Neptunus planet yang terdiri dari metana, amonia, air, dan es. Kandungan metana dalam atmosfer lah yang membuat planet ini jadi berwarna biru." 
+            }
+        
+    },    
+    {
+        "id" : 9,
+        "name": "Pluto",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pluto_by_LORRI_and_Ralph%2C_13_July_2015.jpg",
+        "about" : 
+            {
+                "type": "Planet Katai",
+                "age" : "Variatif",
+                "size": "Variatif (Terbesar: Ceres (1000 km)",
+                "temperature": -203,
+                "distance_sun" : 5900000000 ,
+                "distance_earth" : "4,78 miliar (Terdekat) dan 7,5 miliar (Terjauh)",
+                "satelite" : 5
+            }
+        ,
+        "description" : 
+            {
+                "status" : "Tidak Layak Huni" ,
+                "about" : "Pluto (nama planet minor: 134340 Pluto) adalah planet katai di sabuk Kuiper dan objek trans-Neptunus pertama yang ditemukan. Pluto merupakan planet katai terbesar dan bermassa terbesar kedua di Tata Surya dan benda terbesar kesembilan dan bermassa terbesar kesepuluh yang mengorbit Matahari secara langsung. Pluto merupakan objek trans-Neptunus dengan volume terbesar dan massa yang sedikit lebih kecil daripada Eris, planet katai di piringan tersebar. Layaknya objek lain di sabuk Kuiper, Pluto terdiri dari batu dan es dan relatif kecil—kurang lebih seperenam massa Bulan dan sepertiga volume Bulan." 
+            }
+        
+},
+{
+    "id" : 10,
+    "name": "Asteroid",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/243_ida.jpg",
+    "about" : 
+        {
+            "type": "Planet minor atau planetoid",
+            "age" : 1000,
+            "size": 1188.3,
+            "temperature": -73,
+            "distance_sun" : "308 Juta sampai 373 juta KM",
+            "distance_earth" : "478.7 Juta sampai 628.3 Juta KM",
+            "satelite" : 5
+        }
+    ,
+    "description" : 
+        {
+            "status" : "-" ,
+            "about" : "Asteroid, disebut juga planet minor atau planetoid, adalah benda berukuran lebih kecil daripada planet, tetapi lebih besar daripada meteoroid, umumnya terdapat di bagian dalam Tata Surya (lebih dalam dari orbit planet Neptunus). Asteroid berbeda dengan komet dari penampakan visualnya. Komet menampakkan koma ('ekor') sementara asteroid tidak. Istilah ini secara historis ditujukan untuk semua objek astronomis yang mengelilingi matahari dan setelah diobservasi tidak memiliki karakteristik komet aktif." 
+        }
+    
+}
+]
